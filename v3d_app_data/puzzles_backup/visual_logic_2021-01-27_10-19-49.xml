@@ -7,15 +7,6 @@
           <field name="FIELDNAME">Cube</field>
         </shadow>
       </value>
-      <next>
-        <block type="hide" id="-lf.[Y{t:[cf5)z]:)zf">
-          <value name="VALUE">
-            <shadow type="objectList" id="Hl|phRGG2-Ri!Vr$kNGb">
-              <field name="FIELDNAME">&lt;none&gt;</field>
-            </shadow>
-          </value>
-        </block>
-      </next>
     </block>
   </tab>
   <editorsettings viewport-x="1134" viewport-y="28" viewport-w="768" viewport-h="503.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
